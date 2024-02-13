@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="150" src=""  />
-</div>
-
-###
-
 <h1 align="center">👋 Hi, Visitor 👋</h1>
 
 ###
@@ -49,14 +43,35 @@
 ###
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=cool-void-zero&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=cool-void-zero&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cool-void-zero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/cool-void-zero/cool-void-zero/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/cool-void-zero/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/cool-void-zero/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cool-void-zero&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![cool's GitHub stats](https://github-readme-stats.vercel.app/api?username=cool-void-zero&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
