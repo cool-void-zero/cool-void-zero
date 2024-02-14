@@ -60,12 +60,6 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/cool-void-zero/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/cool-void-zero/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -74,7 +68,9 @@
 ###
 
 <!--
-[![cool's GitHub stats](https://github-readme-stats.vercel.app/api?username=cool-void-zero&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/cool-void-zero/count.svg?"  />
+</div>
 
 **cool-void-zero/cool-void-zero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
