@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌐 一位使用自身的能力進行創造或生產價值並給予提供給世界。<br>🌐 A person uses his own abilities to create or produce value and provide it to the world.<br><br>🧬 超越編程，編程是一種創作工具，類似於音樂透過特定的”規律與排列組合”打造出一個應用或產品用於提供功能服務給予世界上某些人使用。<br>🧬 Beyond coding, programming language is a tool to create an application or product that provides functional services for use by certain people in the world.</p>
+<h4 align="left">🌐 致力於使用個人能力進行創造價值並為世界做出貢獻。<br>🌐 Committed to using personal abilities to create value and contribute to the world.<br><br>🧬 不懈進取，永無止境地成長，以實現自我超越。<br>🧬 Relentless pursuit and never-ending growth to achieve self-transcendence.</h4>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- Back-end RESTful API and database design.<br> - Full Stack Development of Website or Mobile Application<br>- Parse website to crawl and collect data or implement automated the operation of web page.</p>
+<h4 align="left">- Back-end RESTful API and database design.<br> - Full Stack Development of Website or Mobile Application<br>- Parse website to crawl and collect data or implement automated the operation of web page.</h4>
 
 ###
 
@@ -39,9 +39,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<h3 align="center">📚 Learning | Improving</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
@@ -87,14 +103,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=cool-void-zero&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=cool-void-zero&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cool-void-zero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cool-void-zero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=cool-void-zero&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
 
 ###
@@ -108,6 +118,9 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/cool-void-zero/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/cool.void.zero/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
 </div>
 
