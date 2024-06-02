@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">- Full Stack Development of Website or Mobile Application<br>- Back-end RESTful API, database design, solution provider, and <br>technical implementer.</h4>
+<h4 align="left">- Full Stack Development of Website or Mobile Application<br>- Back-end RESTful API, database design, solution provider, and technical implementer.</h4>
 
 ###
 
