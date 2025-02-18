@@ -34,8 +34,6 @@
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="40" alt="jquery logo"  />
 </div>
 
 ###
@@ -56,20 +54,6 @@
 
 ###
 
-<h3 align="left">🛠 <1 Years (Work EXP)</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=black&style=for-the-badge" height="40" alt="selenium logo"  />
-</div>
-
-###
-
 <h3 align="left">📚 Learning</h3>
 
 ###
@@ -78,10 +62,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
 </div>
 
 ###
@@ -111,19 +91,19 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cool-void-zero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cool-tien&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/cool-void-zero/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/cool-tien/count.svg?"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/cool-void-zero/" target="_blank">
+  <a href="https://www.linkedin.com/in/cool-tien/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
